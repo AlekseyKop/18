@@ -1,5 +1,0 @@
-﻿  ConsoleApplication12.cpp
-c:\users\admin\documents\visual studio 2017\projects\consoleapplication12\consoleapplication12\consoleapplication12.cpp(12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-c:\users\admin\documents\visual studio 2017\projects\consoleapplication12\consoleapplication12\consoleapplication12.cpp(49): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-  ConsoleApplication12.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2017\Projects\ConsoleApplication12\Debug\ConsoleApplication12.exe
-  ConsoleApplication12.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2017\Projects\ConsoleApplication12\Debug\ConsoleApplication12.pdb (Partial PDB)
